@@ -54,7 +54,7 @@ Para visualizar e interagir com o dashboard, siga os passos abaixo:
     ```
 
 3.  **Abra o arquivo Excel:**
-    *   Abra o arquivo `[coloque_aqui_o_nome_do_arquivo.xlsx]` com o Microsoft Excel (versão 2016 ou superior recomendada).
+    *   Abra o arquivo `[DashboardsAula_DIO.xlsx]` com o Microsoft Excel (versão 2016 ou superior recomendada).
 
 4.  **Habilite a edição e o conteúdo:**
     *   Ao abrir, pode ser necessário clicar em **"Habilitar Edição"** e depois em **"Habilitar Conteúdo"** na barra de avisos amarela na parte superior do Excel para que as funcionalidades interativas funcionem corretamente.
