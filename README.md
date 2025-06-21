@@ -50,7 +50,7 @@ Para visualizar e interagir com o dashboard, siga os passos abaixo:
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd nome-do-seu-repositorio
+    cd DashboardXbox_DIO
     ```
 
 3.  **Abra o arquivo Excel:**
